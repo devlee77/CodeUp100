@@ -1,2 +1,2 @@
-# algorithm
+# CodeUp100
 
